@@ -1,1 +1,1 @@
-1,Acceptance Testing Workshop,Complete the workshop, the description is in AV,TODAY,False
+1|Acceptance Testing Workshop|Complete the workshop, the description is in AV|TODAY|False
