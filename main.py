@@ -2,7 +2,8 @@ from util import ToDoListManager, Task
 
 def main():
     todo_manager = ToDoListManager()
-
+    todo_manager.load_tasks_from_file()
+    
     while True:
         print("\n===== To-Do List Manager =====")
         print("1. Add Task")
